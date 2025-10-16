@@ -1,0 +1,19 @@
+form{
+    padding: 50px 55px;
+    box-shadow: 0 0 20px;
+    border-radius: 20px;
+    text-align: center;
+    width: 340px;
+}
+.input-group{
+    display: flex;
+}
+h2{
+    color: green;
+    font-size: 35px;
+}
+label{
+    color: black;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
